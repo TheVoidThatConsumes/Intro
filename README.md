@@ -1,3 +1,3 @@
-<video width="100%" src="https://github.com/TheVoidThatConsumes/TheVoidThatconsumes/blob/main/n.mp4">
+<img src="https://github.com/TheVoidThatConsumes/TheVoidThatconsumes/blob/main/sigh.png" align="center">
            
 Hi.
