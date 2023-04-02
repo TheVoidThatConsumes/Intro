@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TheVoidThatconsumes
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning HTML5/CSS3
-- 💞️ I’m looking to collaborate on anything and everything related to web development.
-- 📫 How to reach me? IG: @d.voiid
+https://github.com/TheVoidThatConsumes/TheVoidThatconsumes/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif
+
+Hello! I am David.
 
 <!---
 TheVoidThatconsumes/TheVoidThatconsumes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
