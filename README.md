@@ -10,14 +10,12 @@ Awwwards or Youtube, going through and studying other people’s websites as a s
 inspiration.
 
 I am into:
-
            *Continuous learning
            *Planning
            *Creative thought processes
            *Adapting to change
            
 I use the following technologies to work behind the scenes:
-
            * HTML5/CSS3
            * TailwindCSS
            * JavaScript/JQuery
@@ -25,7 +23,6 @@ I use the following technologies to work behind the scenes:
            
 I have built several portfolio-worthy projects that I translated to code by studying the designs from
 Figma/Dribble. They are as follows:
-
            https://thevoidthatconsumes.github.io/hydra-landing/
            https://thevoidthatconsumes.github.io/Growfy/
            https://koenisegg.netlify.app/
