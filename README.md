@@ -23,8 +23,9 @@ I use the following technologies to work behind the scenes:
            
 I have built several portfolio-worthy projects that I translated to code by studying the designs from
 Figma/Dribble. They are as follows:  
-https://thevoidthatconsumes.github.io/hydra-landing/
-https://thevoidthatconsumes.github.io/Growfy/
-https://koenisegg.netlify.app/
+- [x] https://thevoidthatconsumes.github.io/hydra-landing/
+- [x] https://thevoidthatconsumes.github.io/Growfy/
+- [x] https://koenisegg.netlify.app/
 
+These are my Github stats:  
 [![Anansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevoidthatconsumes)](https://github.com/anuraghazra/github-readme-stats)
