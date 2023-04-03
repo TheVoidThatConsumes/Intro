@@ -34,7 +34,9 @@ Reach me on:
 <a target="_blank" href="https://instagram.com/d_voiid">
   <img src="https://img.shields.io/badge/Instagram-%E2%86%97-red"/>
 </a>
-
 <a target="_blank" href="https://twitter.com/d_voiid">
   <img src="https://img.shields.io/badge/Twitter-%E2%86%97-blue"/>
+</a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlgvgwtGfmBdtBZTXwcVPhGNcckffzddtxqJnHqdpzwRbGxBsqswpTDxdHRdMJrCjWsB">
+  <img src="https://img.shields.io/badge/Gmail-%E2%86%97-red"/>
 </a>
