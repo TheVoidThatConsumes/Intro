@@ -27,5 +27,10 @@ Figma/Dribble. They are as follows:
 - [x] https://thevoidthatconsumes.github.io/Growfy/
 - [x] https://koenisegg.netlify.app/
 
-These are my Github stats:  
+My Github stats:  
 [![Anansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevoidthatconsumes)](https://github.com/anuraghazra/github-readme-stats)
+
+Reach me on:
+<a target="_blank" href="https://instagram.com/d_voiid">
+  <img src="https://img.shields.io/badge/Instagram-%E2%86%97-red"/>
+</a>
