@@ -9,8 +9,8 @@ fan of animated web pages and out-of-the-box creative designs, and you will most
 Awwwards or Youtube, going through and studying other people’s websites as a source of
 inspiration.
 
-I am into:  
-           * Continuous learning
+I am into:
+* Continuous learning
            * Planning
            * Creative thought processes
            * Adapting to change
