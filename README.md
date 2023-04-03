@@ -27,4 +27,4 @@ https://thevoidthatconsumes.github.io/hydra-landing/
 https://thevoidthatconsumes.github.io/Growfy/
 https://koenisegg.netlify.app/
 
-[![Anansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=the voidthatconsumes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevoidthatconsumes)](https://github.com/anuraghazra/github-readme-stats)
