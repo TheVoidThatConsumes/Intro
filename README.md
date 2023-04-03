@@ -11,10 +11,10 @@ inspiration.
 
 I am into:
 
-           * Continuous learning
-           * Planning
-           * Creative thought processes
-           * Adapting to change
+           *Continuous learning
+           *Planning
+           *Creative thought processes
+           *Adapting to change
            
 I use the following technologies to work behind the scenes:
 
