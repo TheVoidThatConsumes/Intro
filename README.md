@@ -30,7 +30,11 @@ Figma/Dribble. They are as follows:
 My Github stats:  
 [![Anansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevoidthatconsumes)](https://github.com/anuraghazra/github-readme-stats)
 
-Reach me on:
+Reach me on:  
 <a target="_blank" href="https://instagram.com/d_voiid">
   <img src="https://img.shields.io/badge/Instagram-%E2%86%97-red"/>
+</a>
+
+<a target="_blank" href="https://twitter.com/d_voiid">
+  <img src="https://img.shields.io/badge/Twitter-%E2%86%97-blue"/>
 </a>
